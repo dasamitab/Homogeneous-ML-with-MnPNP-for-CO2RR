@@ -1,2 +1,2 @@
-# Homogeneous
-<#Contents.0>
+# Contents
+
