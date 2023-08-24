@@ -14,7 +14,7 @@ We provide a step-wise procedure to train and test ML models for the prediction 
 ## TS2.ipynb
 We provide a step-wise procedure to train and test ML models for the prediction of activation energy barrier (ΔG<sup>‡</sup>) (target property) of transition state two (TS2) using aromatic Mn-PNP catalysts. Codes of Cross_validation, and parity plot for the best ML model are also provided.
 
-## Noyori.ipynb
+## TS3.ipynb
 We provide a step-wise procedure to train and test ML models for the prediction of activation energy barrier (ΔG<sup>‡</sup>) (target property) of transition state three (TS3) using aromatic Mn-PNP catalysts. Codes of Cross_validation, and parity plot for the best ML model are also provided.
 
 # Corresponding Author
